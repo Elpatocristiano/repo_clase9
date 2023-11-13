@@ -1,0 +1,12 @@
+main.py
+setup.py
+Cliente/__init__.py
+Cliente/cliente.py
+Facturacion/__init__.py
+Facturacion/factura.py
+Producto/Producto.py
+Producto/__init__.py
+TuModeloDeCliente_CristianoPatricio.egg-info/PKG-INFO
+TuModeloDeCliente_CristianoPatricio.egg-info/SOURCES.txt
+TuModeloDeCliente_CristianoPatricio.egg-info/dependency_links.txt
+TuModeloDeCliente_CristianoPatricio.egg-info/top_level.txt
